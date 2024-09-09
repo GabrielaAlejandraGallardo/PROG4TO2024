@@ -13,3 +13,8 @@ Crear un programa que contenga los datos personales de personas que forman parte
 Deberas identificar los siguientes atributos y aplicarlos a Clases en POO: matricula, dni, nombreApellido, direccion, anioCurso, materias, cursosAcargo.
 crear funciones para mostrar sus datos.
 Crear 3 objetos para cada clase
+
+
+evaluación
+
+https://colab.research.google.com/drive/1H9qiHtXhrd8LIYYOm2JvYfP7qqW-S_YW?usp=sharing
