@@ -18,3 +18,7 @@ Crear 3 objetos para cada clase
 evaluación
 
 https://colab.research.google.com/drive/1H9qiHtXhrd8LIYYOm2JvYfP7qqW-S_YW?usp=sharing
+
+
+
+Autoevaluación  POO HERENCIA Y POLIMORFISMO : https://forms.gle/ZJ7g81Ku79xKfW5h8
