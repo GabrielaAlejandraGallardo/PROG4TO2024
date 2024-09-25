@@ -22,6 +22,7 @@ https://colab.research.google.com/drive/1H9qiHtXhrd8LIYYOm2JvYfP7qqW-S_YW?usp=sh
 
 
 Autoevaluación  POO HERENCIA Y POLIMORFISMO : https://forms.gle/ZJ7g81Ku79xKfW5h8
+https://colab.research.google.com/notebooks/intro.ipynb#scrollTo=NWG44sceRc9K&line=2&uniqifier=1
 
 
 Evaluación POO HERENCIA Y POLIMORFISMO:https://forms.gle/KhoM45FPnuMQUk6N9
