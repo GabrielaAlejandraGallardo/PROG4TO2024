@@ -21,7 +21,7 @@ https://colab.research.google.com/drive/1H9qiHtXhrd8LIYYOm2JvYfP7qqW-S_YW?usp=sh
 
 
 
-Autoevaluación  POO HERENCIA Y POLIMORFISMO : https://forms.gle/ZJ7g81Ku79xKfW5h8
+Autoevaluación  POO HERENCIA Y POLIMORFISMO : https://forms.gle/ZJ7g81Ku79xKfW5h8  https://colab.research.google.com/notebooks/intro.ipynb
 class Animal:
   def __init__(self,nombre, edad, raza, historial,datosDuenios):
     self.nombre=nombre
