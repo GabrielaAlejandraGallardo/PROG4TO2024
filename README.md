@@ -22,7 +22,37 @@ https://colab.research.google.com/drive/1H9qiHtXhrd8LIYYOm2JvYfP7qqW-S_YW?usp=sh
 
 
 Autoevaluación  POO HERENCIA Y POLIMORFISMO : https://forms.gle/ZJ7g81Ku79xKfW5h8
-https://colab.research.google.com/notebooks/intro.ipynb#scrollTo=NWG44sceRc9K&line=2&uniqifier=1
+class Animal:
+  def __init__(self,nombre, edad, raza, historial,datosDuenios):
+    self.nombre=nombre
+    self.edad=edad
+    self.raza=raza
+    self.historial=historial
+    self.datosDuenios=datosDuenios
+    
+  def mostrar(self):
+    print(f"NOMBRE {self.nombre}, edad:{self.edad}, raza: {self.raza}, historial: {self.historial}, datosDuenios: {self. datosDuenios}")  
+  
+class Gato(Animal):  
+  def __init__(self,nombre, edad, raza, historial,datosDuenios,orejas,cola, unias):
+     super().__init__(nombre, edad, raza, historial,datosDuenios)
+     self.orejas=orejas
+     self.cola=cola
+     self.unias=unias
+  def mostrar(self):   
+    super().mostrar()
+    print(f" Orejas: {self.orejas} COLA:{self.cola}, Unias:{self.unias}")
+
+class Consulta:
+  def __init__(self, fecha,tipo, precio):
+    # Added indented block with a pass statement 
+    pass # This is a null operation; nothing happens when it executes.
+
+
+a1=Animal("pepe",2,"belga","garrapatas","juam telefon: 304945855")
+a1.mostrar()
+g1=Gato("pepito",2,"siames","garrapatas y pulgas","juana telefon: 304945345", 2, 1, "filosas" )
+g1.mostrar()
 
 
 Evaluación POO HERENCIA Y POLIMORFISMO:https://forms.gle/KhoM45FPnuMQUk6N9
