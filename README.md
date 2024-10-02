@@ -31,3 +31,8 @@ Evaluación II  POO HERENCIA Y POLIMORFISMO: https://forms.gle/gc3RtBLfpgY1BSg68
 
 
 https://colab.research.google.com/drive/1Vf9TBoI0-OVOvvMV4RM09Q9JZfEv6K_D?usp=sharing
+
+
+ENCAPSULAMIENTO:
+https://colab.research.google.com/drive/1X8MP3yMQE-e79h7l2AOFLUaDCQvoYmm_?usp=sharing
+
