@@ -39,3 +39,8 @@ https://colab.research.google.com/drive/1X8MP3yMQE-e79h7l2AOFLUaDCQvoYmm_?usp=sh
 Instalación de librería para dibujar funciones cuadráticas pip install matplotlib 
 
 Evaluación Programación Orientada a Objetos 20 de Noviembre: https://forms.gle/iMF7RzA87zyM8UEd9
+
+
+
+Recuperatorio https://forms.gle/weffTZVUpSkn4GKn9
+
